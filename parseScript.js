@@ -285,7 +285,7 @@ Search
 </TD>
 <TD CLASS="pldefault"><p class="rightaligntext" /p>
 <div class="staticheaders">
-W10913817 KONRAD B. OWCZAREK<br>
+info<br>
 Spring 2023<br>
 Aug 25, 2023 07:17 pm<br>
 </div>
