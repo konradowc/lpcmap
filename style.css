@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+#canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#image {
+  width: 100%;
+  height: auto;
+}
+
+body { /* Las Positas Campus Map Generator */
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #f2f2f2;
+  color: #000000;
+}
+
+input[type="file"] { /* choose file button */
+  display: block;
+  margin: 20px auto;
+}
+
+button { /* load map button */
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background-color: #9f0000;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #bf0000;
+}
+
+#output { /* class text */
+  margin: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.classes{
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  background-color: #9f0000;
+  border-radius: 5px;
+}
