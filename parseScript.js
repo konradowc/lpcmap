@@ -1,6 +1,5 @@
 var $ = function(id) { return document.getElementById(id); };
 
-var output = $('output');
 var classes = [];
 
 var allBtn = $('allBtn');
